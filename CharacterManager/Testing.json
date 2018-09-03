@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 0,
+        "type": "rase",
+        "title": "Black boar",
+        "stats": {
+            "stamina": 40,
+            "gold": 30,
+            "decription": "It is a boar"
+        }
+    },
+    {
+        "ID": 0,
+        "type": "treasure",
+        "title": "Deflex",
+        "stats": {
+            "gems": [
+                "regular",
+                "Item"
+            ],
+            "gold": 50,
+            "decription": "Odd pair of mecanical rods"
+        }
+    },
+    {
+        "ID": 0,
+        "type": "consumable",
+        "title": "Duplication orb",
+        "stats": {
+            "gems": [
+                "consumable",
+                "lokao"
+            ],
+            "element": [
+                "dark",
+                "arcane"
+            ],
+            "gold": 100,
+            "decription": "It is an orb"
+        }
+    },
+    {
+        "ID": 0,
+        "type": "rase",
+        "title": "Black boar",
+        "stats": {
+            "stamina": 40,
+            "gold": 30,
+            "decription": "It is a boar"
+        }
+    }
+]
