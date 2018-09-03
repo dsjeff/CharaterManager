@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "584197383329",
+    "firebase_url": "https://d-and-d-character-manager.firebaseio.com",
+    "project_id": "d-and-d-character-manager",
+    "storage_bucket": "d-and-d-character-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584197383329:android:20ebe40f1cddff18",
+        "android_client_info": {
+          "package_name": "weaselstudio.charactermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584197383329-rg70biipdkv2d33qi687v8bfga8bvf32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70Y5U50Pc9KwrlEmcFrtRgAFTyhorg2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
